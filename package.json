@@ -1,0 +1,22 @@
+{
+  "name": "docker_k8s_hands-on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moddapampe/docker_k8s_hands-on.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moddapampe/docker_k8s_hands-on/issues"
+  },
+  "homepage": "https://github.com/moddapampe/docker_k8s_hands-on#readme",
+  "dependencies": {
+    "node": "^19.0.0"
+  }
+}
